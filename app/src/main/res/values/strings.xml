@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TMDB Movie</string>
+
+    <string name="api_Key">5408377e8f71849d1123bcac1362b968</string>
+
+    <string name="title_activity_movie">MovieActivity</string>
+</resources>
