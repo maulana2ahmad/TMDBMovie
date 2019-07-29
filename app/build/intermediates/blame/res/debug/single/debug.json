@@ -4,18 +4,6 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_navigation_menu.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-hdpi/ic_launcher.png"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_layout_snackbar.xml"
     },
@@ -36,8 +24,8 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_text_input_password_icon.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/font_mmedium.ttf.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/font/mmedium.ttf"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
@@ -60,12 +48,8 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_cascading_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_tooltip.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/layout/activity_splash.xml"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
@@ -84,8 +68,12 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_navigation_item_header.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_icon_play.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/icon_play.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_rating_small.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/rating_small.png"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout-v21_notification_template_icon_group.xml.flat",
@@ -96,20 +84,20 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_list_menu_item_icon.xml"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_loading2.gif.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/loading2.gif"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_activity_videos.xml.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/layout/activity_videos.xml"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_layout_snackbar_include.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_material.xml.flat",
@@ -120,10 +108,6 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_bottom_sheet_dialog.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_action_mode_close_item_material.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_action_mode_close_item_material.xml"
     },
@@ -132,16 +116,12 @@
         "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/ic_launcher_background.xml"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_select_dialog_material.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/ic_launcher_background.xml"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
@@ -164,48 +144,24 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout-sw600dp-v13/mtrl_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_movie_list_item.xml.flat",
         "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/layout/movie_list_item.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_popup_menu_item_layout.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_icon_splash.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/icon_splash.png"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/mtrl_layout_snackbar.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_search_view.xml"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_activity_movie.xml.flat",
         "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/layout/activity_movie.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_navigation_item_subheader.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/font_mregular.ttf.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/font/mregular.ttf"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
@@ -216,12 +172,8 @@
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_loading3.gif.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/loading3.gif"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_screen_toolbar.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_footer_image.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/footer_image.png"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout-v21_notification_template_custom_big.xml.flat",
@@ -232,64 +184,48 @@
         "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/layout/content_movie.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/mtrl_layout_snackbar_include.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_alert_dialog_title_material.xml"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
         "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_title_material.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_alert_dialog_title_material.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/generated/res/pngs/debug/drawable-mdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_btn_get_started.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/btn_get_started.png"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_action_mode_bar.xml"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/font_october_twilight.ttf.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/font/october_twilight.ttf"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/generated/res/pngs/debug/drawable-ldpi/ic_launcher_foreground.png"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_navigation_item.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_navigation_item.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_layout_tab_icon.xml"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_dialog_title_material.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_navigation_item_separator.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_navigation_item_separator.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
-    },
-    {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_select_dialog_item_material.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
-        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_navigation_menu_item.xml.flat",
@@ -308,8 +244,8 @@
         "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_activity_get_started.xml.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/layout/activity_get_started.xml"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_screen_simple.xml.flat",
@@ -318,6 +254,154 @@
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_alert_dialog_button_bar_material.xml.flat",
         "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/generated/res/pngs/debug/drawable-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_tooltip.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_icon.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_loading2.gif.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/loading2.gif"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_btn_getstarted.xml.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/btn_getstarted.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/font_mlight.ttf.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/font/mlight.ttf"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_search_view.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_navigation_item_subheader.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_loading3.gif.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/loading3.gif"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_screen_toolbar.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_mtrl_layout_snackbar_include.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/mtrl_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_rating.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/rating.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable_back_arrow.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/drawable/back_arrow.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_select_dialog_multichoice_material.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_action_mode_bar.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/generated/res/pngs/debug/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
         "merged": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/res/merged/debug/color_color.xml.flat",

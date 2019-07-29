@@ -16,7 +16,7 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 
 import redudant.tmdbmovie.R;
-import redudant.tmdbmovie.model.Movie;
+import redudant.tmdbmovie.model.moviepopular.Movie;
 import redudant.tmdbmovie.view.MovieActivity;
 
 

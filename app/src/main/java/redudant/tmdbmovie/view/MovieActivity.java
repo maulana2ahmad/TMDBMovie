@@ -12,7 +12,7 @@ import android.widget.Toast;
 import com.bumptech.glide.Glide;
 
 import redudant.tmdbmovie.R;
-import redudant.tmdbmovie.model.Movie;
+import redudant.tmdbmovie.model.moviepopular.Movie;
 
 public class MovieActivity extends AppCompatActivity {
 
@@ -22,7 +22,7 @@ public class MovieActivity extends AppCompatActivity {
 
     private String image;
 
-    private TextView movieTitle, movieSynopsis, movieRating, movieReleaseDate, voteAverage;
+    private TextView movieTitle, movieSynopsis, movieRating, movieReleaseDate;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -42,7 +42,7 @@ public class MovieActivity extends AppCompatActivity {
         movieRating = (TextView) findViewById(R.id.tvMovieRating);
         movieReleaseDate = (TextView) findViewById(R.id.tvReleaseDate);
         movieSynopsis = (TextView) findViewById(R.id.tvPlotsynopsis);
-        voteAverage = (TextView) findViewById(R.id.tvMovieRating);
+
 
 
         Intent intent = getIntent();
@@ -68,9 +68,19 @@ public class MovieActivity extends AppCompatActivity {
 
             movieTitle.setText(movie.getTitle());
             movieRating.setText(Double.toString(movie.getVoteAverage()));
-            movieSynopsis.setText(movie.getOverview());
+
+            if (!movieRating.getText().toString().equals("")) {
+                double amount = Double.parseDouble(movieRating.getText().toString());
+                double res = (amount / 10) * 100;
+                float fix = (float)res;
+                Toast.makeText(getApplicationContext(), "" + fix, Toast.LENGTH_SHORT).show();
+            }
+
             movieReleaseDate.setText(movie.getReleaseDate());
-            voteAverage.setText(Double.toString(movie.getVoteCount()));
+            //movieRating.setText(Double.toString(movie.getVoteCount()));
+            movieSynopsis.setText(movie.getOverview());
+
+            ;
 
         }
     }

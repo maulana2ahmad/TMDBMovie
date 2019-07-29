@@ -13,8 +13,8 @@ import java.util.ArrayList;
 
 import redudant.tmdbmovie.R;
 import redudant.tmdbmovie.adapter.MovieAdapter;
-import redudant.tmdbmovie.model.Movie;
-import redudant.tmdbmovie.model.MovieDBresponse;
+import redudant.tmdbmovie.model.moviepopular.Movie;
+import redudant.tmdbmovie.model.moviepopular.MovieDBresponse;
 import redudant.tmdbmovie.service.Client;
 import redudant.tmdbmovie.service.MovieDataService;
 import retrofit2.Call;

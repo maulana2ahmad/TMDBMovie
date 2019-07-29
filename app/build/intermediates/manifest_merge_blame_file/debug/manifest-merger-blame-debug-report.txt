@@ -5,65 +5,81 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-7-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:7:5-9:41
 8        android:minSdkVersion="21"
-8-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:8:9-34
+8-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:9:9-38
+9-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
 11-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:5:5-67
 11-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:5:22-64
 12
 13    <application
-13-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:11:5-33:19
+13-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:7:5-36:19
 14        android:allowBackup="true"
-14-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:12:9-35
+14-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:8:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 15-->[androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/AndroidManifest.xml:22:18-86
 16        android:debuggable="true"
 17        android:icon="@mipmap/ic_launcher"
-17-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:13:9-43
+17-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:9:9-43
 18        android:label="@string/app_name"
-18-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:14:9-41
+18-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:10:9-41
 19        android:roundIcon="@mipmap/ic_launcher_round"
-19-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:15:9-54
+19-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:11:9-54
 20        android:supportsRtl="true"
-20-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:16:9-35
+20-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:12:9-35
 21        android:testOnly="true"
 22        android:theme="@style/AppTheme" >
-22-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:17:9-40
+22-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:13:9-40
 23        <activity
-23-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:18:9-25:20
-24            android:name="redudant.tmdbmovie.view.MovieActivity"
-24-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:18:19-53
-25            android:label="@string/title_activity_movie"
-25-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:19:13-57
-26            android:parentActivityName="redudant.tmdbmovie.view.MainActivity"
-26-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:20:13-60
-27            android:theme="@style/AppTheme.NoActionBar" >
-27-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:21:13-56
-28            <meta-data
-28-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:22:13-24:72
-29                android:name="android.support.PARENT_ACTIVITY"
-29-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:23:17-63
-30                android:value="redudant.tmdbmovie.view.MainActivity" />
-30-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:24:17-69
-31        </activity>
-32        <activity android:name="redudant.tmdbmovie.view.MainActivity" >
-32-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:26:9-32:20
-32-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:26:19-52
-33            <intent-filter>
-33-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:27:13-31:29
-34                <action android:name="android.intent.action.MAIN" />
-34-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:28:17-69
-34-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:28:25-66
-35
-36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:30:17-77
-36-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:30:27-74
-37            </intent-filter>
-38        </activity>
-39    </application>
-40
-41</manifest>
+23-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:14:9-16:61
+24            android:name="redudant.tmdbmovie.view.GetStartedActivity"
+24-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:14:19-58
+25            android:screenOrientation="portrait"
+25-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:16:13-49
+26            android:theme="@style/AppTheme.NoActionBar" />
+26-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:15:13-56
+27        <activity
+27-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:17:9-24:20
+28            android:name="redudant.tmdbmovie.view.SplashActivity"
+28-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:17:19-54
+29            android:theme="@style/AppTheme.NoActionBar" >
+29-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:18:13-56
+30            <intent-filter>
+30-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:19:13-23:29
+31                <action android:name="android.intent.action.MAIN" />
+31-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:20:17-69
+31-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:20:25-66
+32
+33                <category android:name="android.intent.category.LAUNCHER" />
+33-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:22:17-77
+33-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:22:27-74
+34            </intent-filter>
+35        </activity>
+36        <activity android:name="redudant.tmdbmovie.view.VideosActivity" />
+36-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:25:9-57
+36-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:25:19-54
+37        <activity
+37-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:26:9-34:20
+38            android:name="redudant.tmdbmovie.view.MovieActivity"
+38-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:27:13-47
+39            android:label="@string/title_activity_movie"
+39-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:28:13-57
+40            android:parentActivityName="redudant.tmdbmovie.view.MainActivity"
+40-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:29:13-60
+41            android:theme="@style/AppTheme.NoActionBar" >
+41-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:30:13-56
+42            <meta-data
+42-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:31:13-33:72
+43                android:name="android.support.PARENT_ACTIVITY"
+43-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:32:17-63
+44                android:value="redudant.tmdbmovie.view.MainActivity" />
+44-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:33:17-69
+45        </activity>
+46        <activity android:name="redudant.tmdbmovie.view.MainActivity" />
+46-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:35:9-64
+46-->/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:35:19-52
+47    </application>
+48
+49</manifest>

@@ -4,4 +4,6 @@
     <item android:color="@color/Orange" android:state_checked="false"/>
     <item android:color="@color/Blue" android:state_checked="true"/>
     <item android:color="@color/Green" android:state_checked="true"/>
+
+<!-- Color   -->
 </selector>

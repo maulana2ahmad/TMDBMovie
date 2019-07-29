@@ -1,6 +1,5 @@
 package redudant.tmdbmovie.service;
 
-import redudant.tmdbmovie.model.MovieDBresponse;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
