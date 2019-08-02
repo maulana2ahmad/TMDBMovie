@@ -32,7 +32,8 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="redudant.tmdbmovie.view.MainActivity" />
         </activity>
-        <activity android:name=".view.MainActivity"></activity>
+        <activity android:name=".view.MainActivity">
+        </activity>
     </application>
 
 </manifest>

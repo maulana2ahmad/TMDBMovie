@@ -1,56 +1,56 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
-MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c369453059780401f98905dc383c3b09/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/37b07b0af1af2aafd34c7f4178894857/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/6cb605609ce3e0233def045dd08f32ea/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/706ce950ce1998350e464b9193d35b75/jetified-glide-4.9.0/AndroidManifest.xml:2:1-12:12
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d8e4cf1c5effa27ee872934b5d590923/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/42ac22b99008b274c7933ade81dbb76f/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/5e75dc9500a8800a19ee48edcd9ad91b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8138252b08e2926be578c6ca607972da/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/6d97eb0f6d8183ed301f22cca813399a/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a2820c8ee6ea054be8163c452f7d6b39/transition-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/35c3fbd601ae0234480e07fc02c66070/loader-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/bc5fd2321421e1868cfcd17b87b15ef9/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8bebfd56772390b0c7c5a30636a918a8/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4e2b5312859a4add836ca427f9185971/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/521f36082ba2ebfff3134b14049d8392/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/1410242d4ef985e32783d8097bac5af8/customview-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/80daeaca6f036ab992d59d7f985648c0/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ba941ec3e51f9e63a28205390b7e1196/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f6fea268062bfa2343b0f3ab3dd91fca/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3a157abb854187fccd45caa1b51d7a6d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c50a478e9aa10394c826540d5711e465/jetified-gifdecoder-4.9.0/AndroidManifest.xml:2:1-11:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b18dae995bcdf20fc7dd2fe5b67b8a1e/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a4800bd69aa5f1fb4a3075fb1b945104/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/728270ae329d44b91e2272f2a2469b7f/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.print:print:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/424f8cee47ad96d5bf5ccdac145707ac/print-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ba1861cb5fdc02af084f1b568e0f9bd4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d9e1c8e93250f2776f11901c821c4137/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3315cd4f34fecbb914c0547ad83f8664/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f33aa17185c3708a5ad836b0b67dcf82/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4035bab8ba83c8378e720680d30eb8a9/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
-INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
+MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ac530976694d36711e463bcbb4b892f5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3011bc0efae6ad8ddc65ed250431072d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/72185d7102342e8f3cf15df4e7c6cb89/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4183eaeaf9439c7eca00185f3876de7b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/0d7163f4bfc451ad4be17339e8d71875/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/75efa974cbc2d27b764fc19ce446c9e4/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f0ac4ffde9d6303830013eca9e600834/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/47823bb48a66340a31744214e97f12c6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ab454661908344445f6568923949c225/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3481a2aff54c449bed6b14fcd7d59c70/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/89e210145892d2bac6c92e23ae65a2b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/94213078e3a3e088ccbe479a2de317e8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d612263db6ff3a14ef8b623806d4b479/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/64d97d94659ccfd92b8c4b7da07ae618/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b34f0759265073506f14ce63dc1da993/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/0a24bee5be1afd6a45e8a82f17a9ae2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b1fc512e961f6558f91430432c9b7500/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c25abb4b0988ea8bc1623fb33b7f0403/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4272cf8d6d802cf5b4731e2301f8a014/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/47bde241f68d578ced10e0bccd074024/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/74c6498d9e7b7307a016c6e6a8a0ce59/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8e4e55ae1d300af2fdea1e6339b9bdcd/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/09d9689bba1888b08f8207d2a6cbf364/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/29a721e9cafa57bbd4f6b9f1769c8c83/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/83c344fc6239c22aa9e99b16459e6ff9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/9f427fbc26debada570ba827fccc5692/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a041fb81d6a0bae36ad67f9b04b9e6fd/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/7c42e532ab45147c2ca80a5be29b898e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c3d1c6086f62e272f787aae1a9f90d18/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/352b58021a480388b6902f6cdc1a1995/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/10f9c7097f6c39f5990b3bf512112a5d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/702186b6e7fe6c53ea90767642189408/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8df48eb2c31309c1c5851f43b4b4365b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
+INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
 	package
 		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:3:5-33
 		INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 	android:versionCode
 		INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
-		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-38:12
+		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:1-39:12
 		INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:2:11-69
@@ -59,21 +59,21 @@ ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/Android
 	android:name
 		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:5:22-64
 application
-ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:7:5-36:19
-MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/AndroidManifest.xml:22:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c369453059780401f98905dc383c3b09/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c369453059780401f98905dc383c3b09/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/706ce950ce1998350e464b9193d35b75/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/706ce950ce1998350e464b9193d35b75/jetified-glide-4.9.0/AndroidManifest.xml:10:5-20
-MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/AndroidManifest.xml:22:5-89
-MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/AndroidManifest.xml:22:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f6fea268062bfa2343b0f3ab3dd91fca/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f6fea268062bfa2343b0f3ab3dd91fca/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c50a478e9aa10394c826540d5711e465/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c50a478e9aa10394c826540d5711e465/jetified-gifdecoder-4.9.0/AndroidManifest.xml:9:5-20
+ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:7:5-37:19
+MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ac530976694d36711e463bcbb4b892f5/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ac530976694d36711e463bcbb4b892f5/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/72185d7102342e8f3cf15df4e7c6cb89/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/72185d7102342e8f3cf15df4e7c6cb89/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/75efa974cbc2d27b764fc19ce446c9e4/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/75efa974cbc2d27b764fc19ce446c9e4/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/74c6498d9e7b7307a016c6e6a8a0ce59/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/74c6498d9e7b7307a016c6e6a8a0ce59/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8e4e55ae1d300af2fdea1e6339b9bdcd/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8e4e55ae1d300af2fdea1e6339b9bdcd/AndroidManifest.xml:22:5-23:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/29a721e9cafa57bbd4f6b9f1769c8c83/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/29a721e9cafa57bbd4f6b9f1769c8c83/AndroidManifest.xml:9:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/AndroidManifest.xml:22:18-86
+		ADDED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/74c6498d9e7b7307a016c6e6a8a0ce59/AndroidManifest.xml:22:18-86
 	android:supportsRtl
 		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:12:9-35
 	android:label
@@ -131,79 +131,79 @@ ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/Android
 	android:name
 		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:32:17-63
 activity#redudant.tmdbmovie.view.MainActivity
-ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:35:9-64
+ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:35:9-36:20
 	android:name
 		ADDED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml:35:19-52
 uses-sdk
 INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
-MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/16e34cc941ca560f1ce786850088f542/material-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/AndroidManifest.xml:20:5-44
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c369453059780401f98905dc383c3b09/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c369453059780401f98905dc383c3b09/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/37b07b0af1af2aafd34c7f4178894857/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/37b07b0af1af2aafd34c7f4178894857/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/6cb605609ce3e0233def045dd08f32ea/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/6cb605609ce3e0233def045dd08f32ea/cardview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/706ce950ce1998350e464b9193d35b75/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
-MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/706ce950ce1998350e464b9193d35b75/jetified-glide-4.9.0/AndroidManifest.xml:6:5-8:41
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d8e4cf1c5effa27ee872934b5d590923/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.fragment:fragment:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d8e4cf1c5effa27ee872934b5d590923/fragment-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/42ac22b99008b274c7933ade81dbb76f/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/42ac22b99008b274c7933ade81dbb76f/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/5e75dc9500a8800a19ee48edcd9ad91b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/5e75dc9500a8800a19ee48edcd9ad91b/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8138252b08e2926be578c6ca607972da/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8138252b08e2926be578c6ca607972da/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/6d97eb0f6d8183ed301f22cca813399a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/6d97eb0f6d8183ed301f22cca813399a/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a2820c8ee6ea054be8163c452f7d6b39/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a2820c8ee6ea054be8163c452f7d6b39/transition-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/35c3fbd601ae0234480e07fc02c66070/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/35c3fbd601ae0234480e07fc02c66070/loader-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/bc5fd2321421e1868cfcd17b87b15ef9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/bc5fd2321421e1868cfcd17b87b15ef9/viewpager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8bebfd56772390b0c7c5a30636a918a8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8bebfd56772390b0c7c5a30636a918a8/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4e2b5312859a4add836ca427f9185971/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4e2b5312859a4add836ca427f9185971/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/521f36082ba2ebfff3134b14049d8392/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/521f36082ba2ebfff3134b14049d8392/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/1410242d4ef985e32783d8097bac5af8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/1410242d4ef985e32783d8097bac5af8/customview-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/80daeaca6f036ab992d59d7f985648c0/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/80daeaca6f036ab992d59d7f985648c0/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ba941ec3e51f9e63a28205390b7e1196/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ba941ec3e51f9e63a28205390b7e1196/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f6fea268062bfa2343b0f3ab3dd91fca/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f6fea268062bfa2343b0f3ab3dd91fca/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3a157abb854187fccd45caa1b51d7a6d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3a157abb854187fccd45caa1b51d7a6d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c50a478e9aa10394c826540d5711e465/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
-MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c50a478e9aa10394c826540d5711e465/jetified-gifdecoder-4.9.0/AndroidManifest.xml:5:5-7:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b18dae995bcdf20fc7dd2fe5b67b8a1e/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b18dae995bcdf20fc7dd2fe5b67b8a1e/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a4800bd69aa5f1fb4a3075fb1b945104/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a4800bd69aa5f1fb4a3075fb1b945104/documentfile-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/728270ae329d44b91e2272f2a2469b7f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/728270ae329d44b91e2272f2a2469b7f/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/424f8cee47ad96d5bf5ccdac145707ac/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.print:print:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/424f8cee47ad96d5bf5ccdac145707ac/print-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ba1861cb5fdc02af084f1b568e0f9bd4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ba1861cb5fdc02af084f1b568e0f9bd4/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d9e1c8e93250f2776f11901c821c4137/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d9e1c8e93250f2776f11901c821c4137/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3315cd4f34fecbb914c0547ad83f8664/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3315cd4f34fecbb914c0547ad83f8664/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f33aa17185c3708a5ad836b0b67dcf82/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f33aa17185c3708a5ad836b0b67dcf82/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4035bab8ba83c8378e720680d30eb8a9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4035bab8ba83c8378e720680d30eb8a9/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ac530976694d36711e463bcbb4b892f5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ac530976694d36711e463bcbb4b892f5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3011bc0efae6ad8ddc65ed250431072d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3011bc0efae6ad8ddc65ed250431072d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/72185d7102342e8f3cf15df4e7c6cb89/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/72185d7102342e8f3cf15df4e7c6cb89/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4183eaeaf9439c7eca00185f3876de7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4183eaeaf9439c7eca00185f3876de7b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/0d7163f4bfc451ad4be17339e8d71875/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/0d7163f4bfc451ad4be17339e8d71875/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/75efa974cbc2d27b764fc19ce446c9e4/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/75efa974cbc2d27b764fc19ce446c9e4/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f0ac4ffde9d6303830013eca9e600834/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/f0ac4ffde9d6303830013eca9e600834/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/47823bb48a66340a31744214e97f12c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/47823bb48a66340a31744214e97f12c6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ab454661908344445f6568923949c225/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/ab454661908344445f6568923949c225/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3481a2aff54c449bed6b14fcd7d59c70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/3481a2aff54c449bed6b14fcd7d59c70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/89e210145892d2bac6c92e23ae65a2b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/89e210145892d2bac6c92e23ae65a2b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/94213078e3a3e088ccbe479a2de317e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/94213078e3a3e088ccbe479a2de317e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d612263db6ff3a14ef8b623806d4b479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/d612263db6ff3a14ef8b623806d4b479/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/64d97d94659ccfd92b8c4b7da07ae618/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/64d97d94659ccfd92b8c4b7da07ae618/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b34f0759265073506f14ce63dc1da993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b34f0759265073506f14ce63dc1da993/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/0a24bee5be1afd6a45e8a82f17a9ae2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/0a24bee5be1afd6a45e8a82f17a9ae2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b1fc512e961f6558f91430432c9b7500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/b1fc512e961f6558f91430432c9b7500/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c25abb4b0988ea8bc1623fb33b7f0403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c25abb4b0988ea8bc1623fb33b7f0403/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4272cf8d6d802cf5b4731e2301f8a014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/4272cf8d6d802cf5b4731e2301f8a014/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/47bde241f68d578ced10e0bccd074024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/47bde241f68d578ced10e0bccd074024/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/74c6498d9e7b7307a016c6e6a8a0ce59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/74c6498d9e7b7307a016c6e6a8a0ce59/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8e4e55ae1d300af2fdea1e6339b9bdcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8e4e55ae1d300af2fdea1e6339b9bdcd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/09d9689bba1888b08f8207d2a6cbf364/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/09d9689bba1888b08f8207d2a6cbf364/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/29a721e9cafa57bbd4f6b9f1769c8c83/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/29a721e9cafa57bbd4f6b9f1769c8c83/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/83c344fc6239c22aa9e99b16459e6ff9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/83c344fc6239c22aa9e99b16459e6ff9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/9f427fbc26debada570ba827fccc5692/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/9f427fbc26debada570ba827fccc5692/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a041fb81d6a0bae36ad67f9b04b9e6fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/a041fb81d6a0bae36ad67f9b04b9e6fd/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/7c42e532ab45147c2ca80a5be29b898e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/7c42e532ab45147c2ca80a5be29b898e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c3d1c6086f62e272f787aae1a9f90d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/c3d1c6086f62e272f787aae1a9f90d18/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/352b58021a480388b6902f6cdc1a1995/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/352b58021a480388b6902f6cdc1a1995/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/10f9c7097f6c39f5990b3bf512112a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/10f9c7097f6c39f5990b3bf512112a5d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/702186b6e7fe6c53ea90767642189408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/702186b6e7fe6c53ea90767642189408/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8df48eb2c31309c1c5851f43b4b4365b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/mnctv/.gradle/caches/transforms-2/files-2.1/8df48eb2c31309c1c5851f43b4b4365b/AndroidManifest.xml:20:5-44
 INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 INJECTED from /Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion

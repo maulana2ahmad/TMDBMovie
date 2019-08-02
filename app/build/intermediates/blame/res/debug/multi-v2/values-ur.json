@@ -4,7 +4,7 @@
             "outputFile": "/Users/mnctv/Documents/Maulana/ANDROID/TMDBMovie/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ur/values-ur.xml",
             "map": [
                 {
-                    "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/5bf030364be1628a6f9f63ab6e371a98/appcompat-1.0.2/res/values-ur/values-ur.xml",
+                    "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/3011bc0efae6ad8ddc65ed250431072d/res/values-ur/values-ur.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/c9abde3d00d5c35e349279d839666d3e/core-1.0.1/res/values-ur/values-ur.xml",
+                    "source": "/Users/mnctv/.gradle/caches/transforms-2/files-2.1/74c6498d9e7b7307a016c6e6a8a0ce59/res/values-ur/values-ur.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

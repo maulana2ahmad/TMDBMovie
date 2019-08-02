@@ -8,6 +8,7 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout;
 
 import android.content.res.Configuration;
 import android.os.Bundle;
+import android.view.Gravity;
 
 import java.util.ArrayList;
 
@@ -37,7 +38,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //title ActionBar
-        getSupportActionBar().setTitle("TMDB Popular Movie Today");
+        getSupportActionBar().setTitle("Moviade Popular");
+
+        //end title ActionBar
+
 
         getPopularMoview();
 

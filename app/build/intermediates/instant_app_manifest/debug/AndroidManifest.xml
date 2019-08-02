@@ -44,7 +44,13 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="redudant.tmdbmovie.view.MainActivity" />
         </activity>
-        <activity android:name="redudant.tmdbmovie.view.MainActivity" />
+        <activity android:name="redudant.tmdbmovie.view.MainActivity" >
+        </activity>
+
+        <provider
+            android:name="com.android.tools.ir.server.InstantRunContentProvider"
+            android:authorities="redudant.tmdbmovie.com.android.tools.ir.server.InstantRunContentProvider"
+            android:multiprocess="true" />
     </application>
 
 </manifest>
