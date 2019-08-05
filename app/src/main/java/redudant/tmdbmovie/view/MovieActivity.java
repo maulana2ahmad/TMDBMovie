@@ -44,7 +44,6 @@ public class MovieActivity extends AppCompatActivity {
         movieSynopsis = (TextView) findViewById(R.id.tvPlotsynopsis);
 
 
-
         Intent intent = getIntent();
 
         if (intent.hasExtra("movie")) {
@@ -67,20 +66,27 @@ public class MovieActivity extends AppCompatActivity {
             getSupportActionBar().setTitle(movie.getTitle());
 
             movieTitle.setText(movie.getTitle());
-            movieRating.setText(Double.toString(movie.getVoteAverage()));
 
+            //movieRating.setText(Double.toString(movie.getVoteAverage()));
+            movieRating.setText(String.format("%.0f%%", movie.getVoteAverage() * 10));
+
+
+            /**
             if (!movieRating.getText().toString().equals("")) {
                 double amount = Double.parseDouble(movieRating.getText().toString());
-                double res = (amount / 10) * 100;
-                float fix = (float)res;
-                Toast.makeText(getApplicationContext(), "" + fix, Toast.LENGTH_SHORT).show();
+                int res = (int) (amount * 10);
+                //double res = (amount / 10) * 100;
+                //float fix = (float) res;
+                Toast.makeText(getApplicationContext(), "" + res, Toast.LENGTH_SHORT).show();
+                //movieRating.setText(res);
+
             }
+             */
+
 
             movieReleaseDate.setText(movie.getReleaseDate());
             //movieRating.setText(Double.toString(movie.getVoteCount()));
             movieSynopsis.setText(movie.getOverview());
-
-            ;
 
         }
     }

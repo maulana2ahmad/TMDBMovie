@@ -49,7 +49,7 @@ public class MovieAdapter extends RecyclerView.Adapter<MovieAdapter.MovieViewHol
         //set and get
         holder.movieTitle.setText(movieArrayList.get(position).getOriginalTitle());
         //because number used Double
-        holder.rate.setText(Double.toString(movieArrayList.get(position).getVoteAverage()));
+        holder.rate.setText(String.format("%.0f%%", movieArrayList.get(position).getVoteAverage() * 10));
 
         holder.releaseDate.setText(movieArrayList.get(position).getReleaseDate());
 

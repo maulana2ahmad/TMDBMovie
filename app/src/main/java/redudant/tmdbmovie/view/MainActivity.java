@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //title ActionBar
-        getSupportActionBar().setTitle("Moviade Popular");
+        getSupportActionBar().setTitle("Movie Popular");
 
         //end title ActionBar
 

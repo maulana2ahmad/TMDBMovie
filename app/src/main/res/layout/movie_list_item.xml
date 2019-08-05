@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:adjustViewBounds="true"
@@ -13,7 +14,9 @@
         android:layout_gravity="center"
         android:layout_margin="5dp"
         android:elevation="3dp"
-        app:cardCornerRadius="1dp">
+        app:cardCornerRadius="1dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
 
         <RelativeLayout
             android:layout_width="match_parent"
@@ -57,11 +60,11 @@
                 android:layout_marginLeft="10dp"
                 android:layout_marginRight="10dp"
                 android:layout_marginBottom="5dp"
-                android:textColor="@color/colorAccent"
+                android:textColor="@color/Green"
                 android:textSize="12sp" />
-
-
         </RelativeLayout>
+
+
     </androidx.cardview.widget.CardView>
 
 
